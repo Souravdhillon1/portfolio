@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 function About() {
   return (
     <div className="flex justify-center items-start min-h-screen mt-20 px-4">
@@ -29,9 +29,9 @@ function About() {
 
         <p className="text-lg text-center">
           Want to collaborate or just say hi? Head over to the{" "}
-          <a href="/contact" className="text-blue-400 underline hover:text-blue-300">
-            Contact
-          </a>{" "}
+          <Link to="/contact" className="text-blue-400 underline hover:text-blue-300">
+                    Contact 
+                </Link>{" "}
           page!
         </p>
       </div>
