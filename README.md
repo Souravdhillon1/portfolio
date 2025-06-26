@@ -1,12 +1,42 @@
-# React + Vite
+# 💼 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using **React.js** and **Tailwind CSS**. It serves as a central place to showcase who I am, what I do, my skills, and how to contact me.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+[https://Souravdhillon1.github.io/to_do_list_using-react](https://Souravdhillon1.github.io/portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📑 Table of Contents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [🔍 Features](#-features)
+- [🛠 Tech Stack](#-tech-stack)
+- [📁 Folder Structure](#-folder-structure)
+- [⚙️ Installation](#️-installation)
+- [🚀 Deployment (Manual GitHub Pages)](#-deployment-manual-github-pages)
+- [🙋‍♂️ Author](#-author)
+
+---
+
+## 🔍 Features
+
+- 🏠 **Home** – Catchy landing section with introduction and CTA  
+- 👤 **About** – Brief bio, interests, and background  
+- 🛠 **Skills** – Technologies and tools I work with  
+- 🧰 **Services** – Overview of services I provide  
+- 📞 **Contact** – Contact form (powered by Formspree) and social links  
+- 🌙 Responsive and clean UI
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Form Handling:** Formspree
+- **Deployment:** GitHub Pages (manual upload of `dist/` folder from Vite)
+
+---
+
+## 📁 Folder Structure
+
