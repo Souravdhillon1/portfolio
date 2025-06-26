@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **React.js** and **Tailwind CSS**. It serves as a central place to showcase who I am, what I do, my skills, and how to contact me.
 
 🔗 **Live Demo:**  
-[https://Souravdhillon1.github.io/to_do_list_using-react](https://Souravdhillon1.github.io/portfolio)
+[https://Souravdhillon1.github.io/portfolio](https://Souravdhillon1.github.io/portfolio)
 
 ---
 
