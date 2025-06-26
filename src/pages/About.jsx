@@ -31,7 +31,7 @@ function About() {
           Want to collaborate or just say hi? Head over to the{" "}
           <Link to="/contact" className="text-blue-400 underline hover:text-blue-300">
                     Contact 
-                </Link>{" "}
+          </Link>{" "}
           page!
         </p>
       </div>
